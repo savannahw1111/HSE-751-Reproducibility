@@ -8,6 +8,6 @@ For any mathematic specific information, all variables and predictors have been 
 
 All visualizations and statistical tests are specific to the dataset and rely on those column names. The plots and statistical tests would not work if the dataset columns had been changed. The correlation matrix was also posted in the README. Each correlation value should be identical to the heatmap posted.
 
-Lastly, any analysis that requires random sampling included a random_state = 11 argument to ensure al results were identical even after running again.
+Lastly, any analysis that requires random sampling included a random_state = 11 argument to ensure all results were identical even after running again.
 
 Overall, I believe if a scientist were to upload the notebook and dataset to a Google Colab session, they would get identical outputs and analyses. If they were to use another software like VS Code or Jupyter, the same results can be produced as long as the package types and versions are the same and no additional dependencies have been loaded.
