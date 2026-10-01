@@ -23,6 +23,10 @@ seaborn: 0.13.2
 
 scipy: 1.16.3
 
+### Install Instructions:
+```bash
+pip install pandas==2.2.3 numpy==2.1.3 matplotlib==3.10.0 seaborn==0.13.2 scipy==1.16.3
+
 ## Loading Data
 
 In a Google Colab session, the left-side tab has a folder icon where an upload button resides to import the csv file labeled "Example Dataset_Diabetes.csv" If you decide to use another software like VS Code or a Jupyter Notebook, ensure the file names are left alone and the dataset lives in the same directory as the notebook.
