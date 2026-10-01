@@ -3,7 +3,7 @@
 
 ## Purpose
 
-This repository contains everything a data scientist needs to execute the same analytical workflow on a diabetes-centered dataset. This ensures equivalent enviromnet, packages, software, instructions, data, and analytical findings. Follow the instructions of this file and the notebook markdown for the best results.
+This repository contains everything a data scientist needs to execute the same analytical workflow on a diabetes-centered dataset. This ensures equivalent environment, packages, software, instructions, data, and analytical findings. Follow the instructions of this file and the notebook markdown for the best results.
 
 ## Software
 
