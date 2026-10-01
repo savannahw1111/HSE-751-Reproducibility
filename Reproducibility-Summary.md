@@ -4,10 +4,10 @@ Many aspects of this project have allowed for maximum reproducible potential. Fo
 
 Additionally, a data validation procedure has been added within a cell of the notebook. If the uploaded data does not fit the required shape, then a warning message will appear. 
 
-For any mathematic specific information, all variables and predictors have been related back our specific dataset rather than leaving them as general math templates.
+For any mathematic specific information, all variables and predictors have been related back to our specific dataset rather than leaving them as general math templates.
 
-All visualizations and statistical tests are specific to the dataset and rely on those column names. The plots and statistical tests would not work if the dataset columns had been changed. The correlation matrix was also posted in the README. Each correlation value should be identical to the heatmap posted.
+All visualizations and statistical tests are specific to the dataset and rely on the column names. The plots and statistical tests will not work if the dataset columns have been changed. The correlation matrix was also posted in the README. Each correlation value should be identical to the heatmap posted.
 
-Lastly, any analysis that requires random sampling included a random_state = 11 argument to ensure all results were identical even after running again.
+Lastly, any analysis that requires random sampling included a random_state = 11 argument to ensure all results were identical, even after running again.
 
-Overall, I believe if a scientist were to upload the notebook and dataset to a Google Colab session, they would get identical outputs and analyses. If they were to use another software like VS Code or Jupyter, the same results can be produced as long as the package types and versions are the same and no additional dependencies have been loaded.
+Overall, I believe if a scientist were to upload the notebook and dataset to a Google Colab session, they would get identical outputs and analysis results. If they were to use another software like VS Code or Jupyter, the same results can be produced as long as the package types and versions are the same, instructions are followed, the directories are correct, and no additional dependencies have been loaded.
